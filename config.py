@@ -1,6 +1,6 @@
 import os
 
-GEMINI_API_KEY = "AIzaSyBdpLDqedkiJd67ZYXdE8H9VYWrj9O3nIw"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 
 CHROMA_DB_PATH = "data/chroma_db"
 UPLOAD_DIR = "data/uploads"
