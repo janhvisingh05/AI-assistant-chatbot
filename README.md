@@ -41,7 +41,8 @@ Ensures reliability at every stage:
 ---
 
 
-## 🏗️ Project Structure
+### 🏗️ Project Structure
+
 ai_assistant_project/
 │
 ├── app.py # Main Streamlit app
