@@ -40,37 +40,6 @@ Ensures reliability at every stage:
 
 ---
 
-
-### 🏗️ Project Structure
-
-ai_assistant_project/
-│
-├── app.py # Main Streamlit app
-│
-├── database/
-│ └── db.py # User + chat storage (SQLite)
-│
-├── rag/
-│ └── retriever.py # Context retrieval (embeddings + similarity)
-│
-├── llm/
-│ └── gemini.py # LLM response generation (Google Gemini)
-│
-├── guardrails/
-│ ├── input_guard.py # Input validation
-│ ├── context_guard.py # Context validation
-│ └── output_guard.py # Output validation
-│
-├── utils/
-│ └── memory.py # Chat history formatting
-│
-└── requirements.txt
-
-
----
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
